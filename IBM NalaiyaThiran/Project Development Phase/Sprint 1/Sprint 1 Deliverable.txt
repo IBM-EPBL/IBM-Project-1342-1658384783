@@ -1,0 +1,20 @@
+SPRINT 1 DELIVERABLES
+
+1)In this ipynb file the entire Dataset has been analysed and following has been performed on them.
+•	Import the Libraries.
+•	Importing the dataset.
+•	Checking for Null Values.
+•	Data Visualization.
+•	Feature Scaling.
+•	Splitting Data into Train and Test.
+•	Import the model building Libraries
+•	Initializing the model
+•	Training and testing the model
+•	Evaluation of Model
+•	Save the Model
+
+2) Front-end part of the webpage has been designed using HTML.
+Three files of HTML include
+•	index.html
+•	noChance.html
+•	chance.html
