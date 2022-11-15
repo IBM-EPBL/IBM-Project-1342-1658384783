@@ -1,0 +1,5 @@
+SPRINT 2 DELIVERABLES
+
+In this Sprint we have integrated our ipynb file with IBM Watson Studio and have started to Train the Model 
+
+The generated  API key and Screenshots of the same are attached
