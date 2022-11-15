@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Rainfall Prediction</title>
+    </head>
+    <body background="https://wallpaperaccess.com/full/164299.jpg" text="black">
+        <div class="login">
+            <center><h1>Chances of rain today</h1></center>
+    </body>
+</html>
