@@ -1,5 +1,6 @@
 SPRINT 3 DELIVERABLES
 
-In this Sprint , we plan to Integrate our Trained Model on IBM Watson with Flask which is our end scoring point.
+In this Sprint
+We have added files of Perfromance Testing
 
 Screenshots of the same will be attached.
