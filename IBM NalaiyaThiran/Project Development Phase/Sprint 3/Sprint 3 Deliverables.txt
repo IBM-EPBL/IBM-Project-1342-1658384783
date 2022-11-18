@@ -1,6 +1,7 @@
 SPRINT 3 DELIVERABLES
 
 In this Sprint
-We have added files of Perfromance Testing
+We have finished complete coding of the project.
+We have finished application building and training the model on ibm.
 
-Screenshots of the same will be attached.
+Pickle file was generate which was used to Save the model, then using Sypder a local connection gost created  the web application was deployed.
